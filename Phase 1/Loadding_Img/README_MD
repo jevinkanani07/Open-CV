@@ -1,0 +1,15 @@
+# Loading Image using OpenCV
+
+This folder contains examples of loading (reading) images using OpenCV.
+
+## What you will learn
+- How to use cv2.imread()
+- Loading image into a variable
+- Understanding image file paths
+
+## Files
+- load_image.py : Basic image loading example
+
+## Use case
+Before applying any image processing technique,
+the first step is always loading the image.
