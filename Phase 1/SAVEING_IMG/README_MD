@@ -1,0 +1,16 @@
+# Saving Image using OpenCV
+
+This folder contains examples of saving images using OpenCV.
+
+## What you will learn
+- How to use cv2.imwrite()
+- Saving processed images
+- Understanding image formats (.jpg, .png)
+
+## Files
+- save_image.py : Example of saving an image
+
+## Use case
+After processing an image,
+saving the output is important for later use or sharing.
+
