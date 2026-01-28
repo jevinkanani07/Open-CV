@@ -8,7 +8,7 @@ This folder contains examples of converting a color image to grayscale using Ope
 - Conversion from BGR to GRAY color space
 
 ## Files
-- grayscale_image.py : Example of converting a color image to grayscale
+- Gray_Scaled.py : Example of converting a color image to grayscale
 
 ## Use case
 Grayscale images are widely used in face detection, edge detection,
