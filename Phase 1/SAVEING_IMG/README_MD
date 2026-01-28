@@ -8,7 +8,7 @@ This folder contains examples of saving images using OpenCV.
 - Understanding image formats (.jpg, .png)
 
 ## Files
-- save_image.py : Example of saving an image
+- saveing.py : Example of saving an image
 
 ## Use case
 After processing an image,
