@@ -8,7 +8,7 @@ This folder contains examples of loading (reading) images using OpenCV.
 - Understanding image file paths
 
 ## Files
-- load_image.py : Basic image loading example
+- Loadding.py : Basic image loading example
 
 ## Use case
 Before applying any image processing technique,
