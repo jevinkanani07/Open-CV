@@ -8,7 +8,7 @@ This folder contains examples of displaying images using OpenCV.
 - Purpose of cv2.waitKey() and cv2.destroyAllWindows()
 
 ## Files
-- display_image.py : Basic image display example
+- displaying.py : Basic image display example
 
 ## Use case
 To visualize the result of image processing or face detection,
