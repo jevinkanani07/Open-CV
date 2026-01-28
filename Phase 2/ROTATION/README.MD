@@ -9,7 +9,7 @@ This folder contains examples of rotating images using OpenCV.
 - Effect of angle and scale
 
 ## Files
-- rotate_image.py : Basic image rotation example
+- rotation.py : Basic image rotation example
 
 ## Use case
 Image rotation is commonly used in data augmentation,
